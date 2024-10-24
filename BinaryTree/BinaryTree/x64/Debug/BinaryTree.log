@@ -1,0 +1,11 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(BinaryTree.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  BinaryTree.c
+C:\Users\Amsatorian\source\repos\BinaryTree\BinaryTree\BinaryTree.h(1,1): warning C4828: 文件包含在偏移 0x24e 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+  Queue.c
+C:\Users\Amsatorian\source\repos\BinaryTree\BinaryTree\BinaryTree.h(1,1): warning C4828: 文件包含在偏移 0x24e 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+C:\Users\Amsatorian\source\repos\BinaryTree\BinaryTree\Queue.c(99,10): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“QDataType”
+C:\Users\Amsatorian\source\repos\BinaryTree\BinaryTree\Queue.c(99,10): warning C4313: "printf": 格式字符串中的 "%d" 与类型为 "QDataType" 的参数 1 冲突
+  test.c
+C:\Users\Amsatorian\source\repos\BinaryTree\BinaryTree\BinaryTree.h(1,1): warning C4828: 文件包含在偏移 0x24e 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+  正在生成代码...
+  BinaryTree.vcxproj -> C:\Users\Amsatorian\source\repos\BinaryTree\x64\Debug\Binary Tree.exe

@@ -1,0 +1,3 @@
+﻿  test.c
+C:\Users\Amsatorian\source\repos\SList\SList.h(1,1): warning C4828: 文件包含在偏移 0x2b8 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+  SList.vcxproj -> C:\Users\Amsatorian\source\repos\SList\x64\Debug\SList.exe
